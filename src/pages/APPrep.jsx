@@ -1,2 +1,1 @@
-// AP Prep Module
-export default function APPrep() { return <div>AP Prep Coming Soon</div>; }
+export default function APPrep() { return <div><h2>AP Prep Coming Soon</h2></div>; }

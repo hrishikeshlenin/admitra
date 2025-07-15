@@ -1,2 +1,1 @@
-// Pricing Page
-export default function Pricing() { return <div>Pricing Plans</div>; }
+export default function Pricing() { return <div><h2>Pricing Plans</h2></div>; }

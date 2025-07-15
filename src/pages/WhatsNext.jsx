@@ -1,2 +1,1 @@
-// What's Next Module
-export default function WhatsNext() { return <div>What's Next Coming Soon</div>; }
+export default function WhatsNext() { return <div><h2>What's Next Coming Soon</h2></div>; }
