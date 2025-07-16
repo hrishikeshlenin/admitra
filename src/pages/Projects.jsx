@@ -1,0 +1,1 @@
+export default function Projects() { return <div><h2>Find internships or projects near you based on your interests</h2></div>; }

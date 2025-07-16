@@ -1,1 +1,1 @@
-export default function APPrep() { return <div><h2>AP Prep Coming Soon</h2></div>; }
+export default function APPrep() { return <div><h2>All AP Subjects Coming Soon</h2></div>; }
