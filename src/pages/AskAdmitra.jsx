@@ -1,1 +1,0 @@
-export default function AskAdmitra() { return <div><h2>Ask me anything academic!</h2><input placeholder='Type your question' style={{ width: '100%' }} /></div>; }

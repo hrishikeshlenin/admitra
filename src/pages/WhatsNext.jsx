@@ -1,1 +1,0 @@
-export default function WhatsNext() { return <div><h2>What’s Next: Explore your future career/major</h2></div>; }
